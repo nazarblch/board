@@ -1,0 +1,298 @@
+[28.08.2011 23:41:54] -------------------------------------------------------------------------------
+[28.08.2011 23:41:54] SlimFTPd 3.181, by WhitSoft Development (www.whitsoftdev.com)
+[28.08.2011 23:41:54] SlimFTPd is starting.
+[28.08.2011 23:41:54] Executing "SlimFTPd.conf"...
+[28.08.2011 23:41:54] Configuration script parsed successfully.
+[28.08.2011 23:41:54] Waiting for incoming connections...
+[28.08.2011 23:44:12] [212] Incoming connection from localhost:3881.
+[28.08.2011 23:44:13] [212] Connection closed.
+[28.08.2011 23:44:13] [248] Incoming connection from localhost:3882.
+[28.08.2011 23:44:21] [248] Connection closed.
+[28.08.2011 23:44:25] [244] Incoming connection from localhost:3883.
+[28.08.2011 23:44:26] [244] Connection closed.
+[28.08.2011 23:44:26] [216] Incoming connection from localhost:3884.
+[28.08.2011 23:44:50] [216] Connection closed.
+[28.08.2011 23:45:01] [232] Incoming connection from localhost:3891.
+[28.08.2011 23:45:01] [232] Connection closed.
+[28.08.2011 23:45:01] [212] Incoming connection from localhost:3892.
+[28.08.2011 23:45:11] [212] Connection closed.
+[28.08.2011 23:45:14] [248] Incoming connection from localhost:3893.
+[28.08.2011 23:45:14] [248] Connection closed.
+[28.08.2011 23:45:14] [244] Incoming connection from localhost:3894.
+[28.08.2011 23:45:24] [244] Connection closed.
+[28.08.2011 23:45:28] [216] Incoming connection from localhost:3897.
+[28.08.2011 23:45:28] [216] Connection closed.
+[28.08.2011 23:45:28] [232] Incoming connection from localhost:3898.
+[28.08.2011 23:45:42] [232] Connection closed.
+[28.08.2011 23:45:45] [212] Incoming connection from localhost:3899.
+[28.08.2011 23:45:45] [212] Connection closed.
+[28.08.2011 23:45:45] [248] Incoming connection from localhost:3900.
+[28.08.2011 23:45:52] [248] Connection closed.
+[28.08.2011 23:48:35] [244] Incoming connection from localhost:3910.
+[28.08.2011 23:48:35] [244] Connection closed.
+[28.08.2011 23:48:35] [216] Incoming connection from localhost:3911.
+[28.08.2011 23:48:37] [216] Connection closed.
+[28.08.2011 23:48:44] [232] Incoming connection from localhost:3912.
+[28.08.2011 23:48:44] [232] Connection closed.
+[28.08.2011 23:48:44] [212] Incoming connection from localhost:3913.
+[28.08.2011 23:49:03] [212] Connection closed.
+[28.08.2011 23:53:28] [248] Incoming connection from localhost:3917.
+[28.08.2011 23:53:28] [248] Connection closed.
+[28.08.2011 23:53:28] [244] Incoming connection from localhost:3918.
+[28.08.2011 23:53:45] [244] Connection closed.
+[28.08.2011 23:54:26] [216] Incoming connection from localhost:3922.
+[28.08.2011 23:54:26] [216] Connection closed.
+[28.08.2011 23:54:26] [232] Incoming connection from localhost:3923.
+[28.08.2011 23:54:40] [232] Connection closed.
+[29.08.2011 0:06:19] [212] Incoming connection from localhost:4206.
+[29.08.2011 0:06:19] [212] Connection closed.
+[29.08.2011 0:06:24] [248] Incoming connection from localhost:4207.
+[29.08.2011 0:06:25] [248] Connection closed.
+[29.08.2011 0:06:30] [244] Incoming connection from localhost:4208.
+[29.08.2011 0:06:30] [244] Connection closed.
+[29.08.2011 0:06:35] [216] Incoming connection from localhost:4209.
+[29.08.2011 0:06:35] [216] Connection closed.
+[29.08.2011 0:06:40] [232] Incoming connection from localhost:4210.
+[29.08.2011 0:06:40] [232] Connection closed.
+[29.08.2011 0:06:52] [212] Incoming connection from localhost:4211.
+[29.08.2011 0:06:52] [212] Connection closed.
+[29.08.2011 0:06:57] [248] Incoming connection from localhost:4212.
+[29.08.2011 0:06:58] [248] Connection closed.
+[29.08.2011 0:11:29] [244] Incoming connection from localhost:4363.
+[29.08.2011 0:11:30] [244] Connection closed.
+[29.08.2011 0:11:30] [216] Incoming connection from localhost:4364.
+[29.08.2011 0:11:40] [216] Connection closed.
+[29.08.2011 0:15:44] [232] Incoming connection from localhost:4397.
+[29.08.2011 0:15:44] [232] Connection closed.
+[29.08.2011 0:15:44] [212] Incoming connection from localhost:4398.
+[29.08.2011 0:15:55] [212] Connection closed.
+[29.08.2011 0:17:09] [248] Incoming connection from localhost:4404.
+[29.08.2011 0:17:09] [248] Connection closed.
+[29.08.2011 0:17:09] [244] Incoming connection from localhost:4405.
+[29.08.2011 0:17:19] [244] Connection closed.
+[29.08.2011 0:18:01] [216] Incoming connection from localhost:4408.
+[29.08.2011 0:18:01] [216] Connection closed.
+[29.08.2011 0:18:01] [232] Incoming connection from localhost:4409.
+[29.08.2011 0:18:16] [232] Connection closed.
+[29.08.2011 0:22:01] [212] Incoming connection from localhost:4447.
+[29.08.2011 0:22:01] [212] Connection closed.
+[29.08.2011 0:22:01] [248] Incoming connection from localhost:4448.
+[29.08.2011 0:22:11] [248] Connection closed.
+[29.08.2011 0:29:15] [244] Incoming connection from localhost:4558.
+[29.08.2011 0:29:15] [244] Connection closed.
+[29.08.2011 0:29:15] [216] Incoming connection from localhost:4559.
+[29.08.2011 0:29:29] [216] Connection closed.
+[29.08.2011 0:29:51] [232] Incoming connection from localhost:4560.
+[29.08.2011 0:29:51] [232] Connection closed.
+[29.08.2011 0:29:51] [212] Incoming connection from localhost:4561.
+[29.08.2011 0:30:00] [212] Connection closed.
+[29.08.2011 0:33:02] [248] Incoming connection from localhost:4574.
+[29.08.2011 0:33:02] [248] Connection closed.
+[29.08.2011 0:37:57] -------------------------------------------------------------------------------
+[29.08.2011 0:37:57] SlimFTPd 3.181, by WhitSoft Development (www.whitsoftdev.com)
+[29.08.2011 0:37:57] The SlimFTPd service is starting.
+[29.08.2011 0:37:57] Executing "SlimFTPd.conf"...
+[29.08.2011 0:37:58] Error on line 59: Mount directive should have exactly 2 arguments.
+[29.08.2011 0:37:58] Failed parsing configuration script.
+[29.08.2011 0:37:58] An error occurred while starting SlimFTPd.
+[29.08.2011 0:38:37] The SlimFTPd service has stopped.
+[29.08.2011 0:57:04] -------------------------------------------------------------------------------
+[29.08.2011 0:57:04] SlimFTPd 3.181, by WhitSoft Development (www.whitsoftdev.com)
+[29.08.2011 0:57:04] SlimFTPd is starting.
+[29.08.2011 0:57:04] Executing "SlimFTPd.conf"...
+[29.08.2011 0:57:04] Error on line 59: Mount directive should have exactly 2 arguments.
+[29.08.2011 0:57:04] Failed parsing configuration script.
+[29.08.2011 0:57:04] An error occurred while starting SlimFTPd.
+[29.08.2011 0:57:04] SlimFTPd has stopped.
+[31.08.2011 10:24:49] -------------------------------------------------------------------------------
+[31.08.2011 10:24:49] SlimFTPd 3.181, by WhitSoft Development (www.whitsoftdev.com)
+[31.08.2011 10:24:49] The SlimFTPd service is starting.
+[31.08.2011 10:24:49] Executing "SlimFTPd.conf"...
+[31.08.2011 10:24:49] Error on line 59: Mount directive should have exactly 2 arguments.
+[31.08.2011 10:24:49] Failed parsing configuration script.
+[31.08.2011 10:24:49] An error occurred while starting SlimFTPd.
+[31.08.2011 10:25:32] The SlimFTPd service has stopped.
+[01.09.2011 1:15:27] -------------------------------------------------------------------------------
+[01.09.2011 1:15:27] SlimFTPd 3.181, by WhitSoft Development (www.whitsoftdev.com)
+[01.09.2011 1:15:27] The SlimFTPd service is starting.
+[01.09.2011 1:15:27] Executing "SlimFTPd.conf"...
+[01.09.2011 1:15:27] Error on line 59: Mount directive should have exactly 2 arguments.
+[01.09.2011 1:15:27] Failed parsing configuration script.
+[01.09.2011 1:15:27] An error occurred while starting SlimFTPd.
+[01.09.2011 1:16:08] The SlimFTPd service has stopped.
+[03.09.2011 22:34:48] -------------------------------------------------------------------------------
+[03.09.2011 22:34:48] SlimFTPd 3.181, by WhitSoft Development (www.whitsoftdev.com)
+[03.09.2011 22:34:48] The SlimFTPd service is starting.
+[03.09.2011 22:34:48] Executing "SlimFTPd.conf"...
+[03.09.2011 22:34:48] Error on line 59: Mount directive should have exactly 2 arguments.
+[03.09.2011 22:34:48] Failed parsing configuration script.
+[03.09.2011 22:34:48] An error occurred while starting SlimFTPd.
+[03.09.2011 22:35:35] The SlimFTPd service has stopped.
+[05.09.2011 17:07:51] -------------------------------------------------------------------------------
+[05.09.2011 17:07:51] SlimFTPd 3.181, by WhitSoft Development (www.whitsoftdev.com)
+[05.09.2011 17:07:51] The SlimFTPd service is starting.
+[05.09.2011 17:07:51] Executing "SlimFTPd.conf"...
+[05.09.2011 17:07:51] Error on line 59: Mount directive should have exactly 2 arguments.
+[05.09.2011 17:07:51] Failed parsing configuration script.
+[05.09.2011 17:07:51] An error occurred while starting SlimFTPd.
+[05.09.2011 17:08:36] The SlimFTPd service has stopped.
+[06.09.2011 12:00:06] -------------------------------------------------------------------------------
+[06.09.2011 12:00:06] SlimFTPd 3.181, by WhitSoft Development (www.whitsoftdev.com)
+[06.09.2011 12:00:06] The SlimFTPd service is starting.
+[06.09.2011 12:00:06] Executing "SlimFTPd.conf"...
+[06.09.2011 12:00:08] Error on line 59: Mount directive should have exactly 2 arguments.
+[06.09.2011 12:00:08] Failed parsing configuration script.
+[06.09.2011 12:00:08] An error occurred while starting SlimFTPd.
+[06.09.2011 12:00:53] The SlimFTPd service has stopped.
+[06.09.2011 12:54:22] -------------------------------------------------------------------------------
+[06.09.2011 12:54:22] SlimFTPd 3.181, by WhitSoft Development (www.whitsoftdev.com)
+[06.09.2011 12:54:22] The SlimFTPd service is starting.
+[06.09.2011 12:54:22] Executing "SlimFTPd.conf"...
+[06.09.2011 12:54:22] Error on line 59: Mount directive should have exactly 2 arguments.
+[06.09.2011 12:54:22] Failed parsing configuration script.
+[06.09.2011 12:54:22] An error occurred while starting SlimFTPd.
+[06.09.2011 12:55:05] The SlimFTPd service has stopped.
+[08.09.2011 13:03:59] -------------------------------------------------------------------------------
+[08.09.2011 13:03:59] SlimFTPd 3.181, by WhitSoft Development (www.whitsoftdev.com)
+[08.09.2011 13:03:59] The SlimFTPd service is starting.
+[08.09.2011 13:03:59] Executing "SlimFTPd.conf"...
+[08.09.2011 13:04:00] Error on line 59: Mount directive should have exactly 2 arguments.
+[08.09.2011 13:04:00] Failed parsing configuration script.
+[08.09.2011 13:04:00] An error occurred while starting SlimFTPd.
+[08.09.2011 13:04:25] The SlimFTPd service has stopped.
+[12.09.2011 14:06:38] -------------------------------------------------------------------------------
+[12.09.2011 14:06:38] SlimFTPd 3.181, by WhitSoft Development (www.whitsoftdev.com)
+[12.09.2011 14:06:38] The SlimFTPd service is starting.
+[12.09.2011 14:06:38] Executing "SlimFTPd.conf"...
+[12.09.2011 14:06:38] Error on line 59: Mount directive should have exactly 2 arguments.
+[12.09.2011 14:06:38] Failed parsing configuration script.
+[12.09.2011 14:06:38] An error occurred while starting SlimFTPd.
+[12.09.2011 14:07:17] The SlimFTPd service has stopped.
+[16.09.2011 21:38:22] -------------------------------------------------------------------------------
+[16.09.2011 21:38:22] SlimFTPd 3.181, by WhitSoft Development (www.whitsoftdev.com)
+[16.09.2011 21:38:22] The SlimFTPd service is starting.
+[16.09.2011 21:38:22] Executing "SlimFTPd.conf"...
+[16.09.2011 21:38:24] Error on line 59: Mount directive should have exactly 2 arguments.
+[16.09.2011 21:38:24] Failed parsing configuration script.
+[16.09.2011 21:38:24] An error occurred while starting SlimFTPd.
+[16.09.2011 21:39:07] The SlimFTPd service has stopped.
+[19.09.2011 3:07:27] -------------------------------------------------------------------------------
+[19.09.2011 3:07:27] SlimFTPd 3.181, by WhitSoft Development (www.whitsoftdev.com)
+[19.09.2011 3:07:27] The SlimFTPd service is starting.
+[19.09.2011 3:07:27] Executing "SlimFTPd.conf"...
+[19.09.2011 3:07:27] Error on line 59: Mount directive should have exactly 2 arguments.
+[19.09.2011 3:07:27] Failed parsing configuration script.
+[19.09.2011 3:07:27] An error occurred while starting SlimFTPd.
+[19.09.2011 3:08:07] The SlimFTPd service has stopped.
+[20.09.2011 21:03:15] -------------------------------------------------------------------------------
+[20.09.2011 21:03:15] SlimFTPd 3.181, by WhitSoft Development (www.whitsoftdev.com)
+[20.09.2011 21:03:15] The SlimFTPd service is starting.
+[20.09.2011 21:03:15] Executing "SlimFTPd.conf"...
+[20.09.2011 21:03:15] Error on line 59: Mount directive should have exactly 2 arguments.
+[20.09.2011 21:03:15] Failed parsing configuration script.
+[20.09.2011 21:03:15] An error occurred while starting SlimFTPd.
+[20.09.2011 21:04:05] The SlimFTPd service has stopped.
+[29.09.2011 2:14:57] -------------------------------------------------------------------------------
+[29.09.2011 2:14:57] SlimFTPd 3.181, by WhitSoft Development (www.whitsoftdev.com)
+[29.09.2011 2:14:57] The SlimFTPd service is starting.
+[29.09.2011 2:14:57] Executing "SlimFTPd.conf"...
+[29.09.2011 2:14:59] Error on line 59: Mount directive should have exactly 2 arguments.
+[29.09.2011 2:14:59] Failed parsing configuration script.
+[29.09.2011 2:14:59] An error occurred while starting SlimFTPd.
+[29.09.2011 2:15:44] The SlimFTPd service has stopped.
+[04.10.2011 6:26:53] -------------------------------------------------------------------------------
+[04.10.2011 6:26:53] SlimFTPd 3.181, by WhitSoft Development (www.whitsoftdev.com)
+[04.10.2011 6:26:53] The SlimFTPd service is starting.
+[04.10.2011 6:26:53] Executing "SlimFTPd.conf"...
+[04.10.2011 6:26:53] Error on line 59: Mount directive should have exactly 2 arguments.
+[04.10.2011 6:26:53] Failed parsing configuration script.
+[04.10.2011 6:26:53] An error occurred while starting SlimFTPd.
+[04.10.2011 6:27:37] The SlimFTPd service has stopped.
+[09.10.2011 5:19:06] -------------------------------------------------------------------------------
+[09.10.2011 5:19:06] SlimFTPd 3.181, by WhitSoft Development (www.whitsoftdev.com)
+[09.10.2011 5:19:06] The SlimFTPd service is starting.
+[09.10.2011 5:19:06] Executing "SlimFTPd.conf"...
+[09.10.2011 5:19:06] Error on line 59: Mount directive should have exactly 2 arguments.
+[09.10.2011 5:19:06] Failed parsing configuration script.
+[09.10.2011 5:19:06] An error occurred while starting SlimFTPd.
+[09.10.2011 5:19:52] The SlimFTPd service has stopped.
+[09.10.2011 20:48:00] -------------------------------------------------------------------------------
+[09.10.2011 20:48:00] SlimFTPd 3.181, by WhitSoft Development (www.whitsoftdev.com)
+[09.10.2011 20:48:00] The SlimFTPd service is starting.
+[09.10.2011 20:48:01] Executing "SlimFTPd.conf"...
+[09.10.2011 20:48:01] Error on line 59: Mount directive should have exactly 2 arguments.
+[09.10.2011 20:48:01] Failed parsing configuration script.
+[09.10.2011 20:48:01] An error occurred while starting SlimFTPd.
+[09.10.2011 20:48:34] The SlimFTPd service has stopped.
+[18.10.2011 1:42:17] -------------------------------------------------------------------------------
+[18.10.2011 1:42:17] SlimFTPd 3.181, by WhitSoft Development (www.whitsoftdev.com)
+[18.10.2011 1:42:17] The SlimFTPd service is starting.
+[18.10.2011 1:42:17] Executing "SlimFTPd.conf"...
+[18.10.2011 1:42:18] Error on line 59: Mount directive should have exactly 2 arguments.
+[18.10.2011 1:42:19] Failed parsing configuration script.
+[18.10.2011 1:42:19] An error occurred while starting SlimFTPd.
+[18.10.2011 1:42:56] The SlimFTPd service has stopped.
+[22.10.2011 3:32:39] -------------------------------------------------------------------------------
+[22.10.2011 3:32:39] SlimFTPd 3.181, by WhitSoft Development (www.whitsoftdev.com)
+[22.10.2011 3:32:39] The SlimFTPd service is starting.
+[22.10.2011 3:32:39] Executing "SlimFTPd.conf"...
+[22.10.2011 3:32:39] Error on line 59: Mount directive should have exactly 2 arguments.
+[22.10.2011 3:32:39] Failed parsing configuration script.
+[22.10.2011 3:32:39] An error occurred while starting SlimFTPd.
+[22.10.2011 3:33:16] The SlimFTPd service has stopped.
+[06.11.2011 5:36:46] -------------------------------------------------------------------------------
+[06.11.2011 5:36:46] SlimFTPd 3.181, by WhitSoft Development (www.whitsoftdev.com)
+[06.11.2011 5:36:46] The SlimFTPd service is starting.
+[06.11.2011 5:36:46] Executing "SlimFTPd.conf"...
+[06.11.2011 5:36:46] Error on line 59: Mount directive should have exactly 2 arguments.
+[06.11.2011 5:36:46] Failed parsing configuration script.
+[06.11.2011 5:36:46] An error occurred while starting SlimFTPd.
+[06.11.2011 5:37:18] The SlimFTPd service has stopped.
+[13.11.2011 14:41:40] -------------------------------------------------------------------------------
+[13.11.2011 14:41:40] SlimFTPd 3.181, by WhitSoft Development (www.whitsoftdev.com)
+[13.11.2011 14:41:40] The SlimFTPd service is starting.
+[13.11.2011 14:41:40] Executing "SlimFTPd.conf"...
+[13.11.2011 14:41:40] Error on line 59: Mount directive should have exactly 2 arguments.
+[13.11.2011 14:41:40] Failed parsing configuration script.
+[13.11.2011 14:41:40] An error occurred while starting SlimFTPd.
+[13.11.2011 14:42:12] The SlimFTPd service has stopped.
+[15.11.2011 7:31:33] -------------------------------------------------------------------------------
+[15.11.2011 7:31:33] SlimFTPd 3.181, by WhitSoft Development (www.whitsoftdev.com)
+[15.11.2011 7:31:33] The SlimFTPd service is starting.
+[15.11.2011 7:31:34] Executing "SlimFTPd.conf"...
+[15.11.2011 7:31:34] Error on line 59: Mount directive should have exactly 2 arguments.
+[15.11.2011 7:31:34] Failed parsing configuration script.
+[15.11.2011 7:31:34] An error occurred while starting SlimFTPd.
+[15.11.2011 7:32:04] The SlimFTPd service has stopped.
+[16.11.2011 13:30:25] -------------------------------------------------------------------------------
+[16.11.2011 13:30:25] SlimFTPd 3.181, by WhitSoft Development (www.whitsoftdev.com)
+[16.11.2011 13:30:25] The SlimFTPd service is starting.
+[16.11.2011 13:30:25] Executing "SlimFTPd.conf"...
+[16.11.2011 13:30:25] Error on line 59: Mount directive should have exactly 2 arguments.
+[16.11.2011 13:30:25] Failed parsing configuration script.
+[16.11.2011 13:30:25] An error occurred while starting SlimFTPd.
+[16.11.2011 13:30:52] The SlimFTPd service has stopped.
+[22.11.2011 14:57:13] -------------------------------------------------------------------------------
+[22.11.2011 14:57:13] SlimFTPd 3.181, by WhitSoft Development (www.whitsoftdev.com)
+[22.11.2011 14:57:13] The SlimFTPd service is starting.
+[22.11.2011 14:57:13] Executing "SlimFTPd.conf"...
+[22.11.2011 14:57:13] Error on line 59: Mount directive should have exactly 2 arguments.
+[22.11.2011 14:57:13] Failed parsing configuration script.
+[22.11.2011 14:57:13] An error occurred while starting SlimFTPd.
+[22.11.2011 14:57:43] The SlimFTPd service has stopped.
+[25.11.2011 15:59:59] -------------------------------------------------------------------------------
+[25.11.2011 15:59:59] SlimFTPd 3.181, by WhitSoft Development (www.whitsoftdev.com)
+[25.11.2011 15:59:59] The SlimFTPd service is starting.
+[25.11.2011 15:59:59] Executing "SlimFTPd.conf"...
+[25.11.2011 15:59:59] Error on line 59: Mount directive should have exactly 2 arguments.
+[25.11.2011 15:59:59] Failed parsing configuration script.
+[25.11.2011 15:59:59] An error occurred while starting SlimFTPd.
+[25.11.2011 16:00:23] The SlimFTPd service has stopped.
+[08.12.2011 19:02:55] -------------------------------------------------------------------------------
+[08.12.2011 19:02:55] SlimFTPd 3.181, by WhitSoft Development (www.whitsoftdev.com)
+[08.12.2011 19:02:55] The SlimFTPd service is starting.
+[08.12.2011 19:02:55] Executing "SlimFTPd.conf"...
+[08.12.2011 19:02:55] Error on line 59: Mount directive should have exactly 2 arguments.
+[08.12.2011 19:02:55] Failed parsing configuration script.
+[08.12.2011 19:02:55] An error occurred while starting SlimFTPd.
+[08.12.2011 19:03:24] The SlimFTPd service has stopped.

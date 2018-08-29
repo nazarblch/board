@@ -1,0 +1,40 @@
+[13-Sep-2011 00:56:16] PHP Warning:  main(top_blocks/books_top.php): failed to open stream: No such file or directory in /home/boardms3/public_html/index.php on line 214
+[13-Sep-2011 00:56:16] PHP Warning:  main(top_blocks/books_top.php): failed to open stream: No such file or directory in /home/boardms3/public_html/index.php on line 214
+[13-Sep-2011 00:56:16] PHP Warning:  main(top_blocks/books_top.php): failed to open stream: No such file or directory in /home/boardms3/public_html/index.php on line 214
+[13-Sep-2011 00:56:16] PHP Warning:  main(): Failed opening 'top_blocks/books_top.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/boardms3/public_html/index.php on line 214
+[13-Sep-2011 00:56:16] PHP Warning:  main(left_blocks/books_list.php): failed to open stream: No such file or directory in /home/boardms3/public_html/left_td.php on line 25
+[13-Sep-2011 00:56:16] PHP Warning:  main(left_blocks/books_list.php): failed to open stream: No such file or directory in /home/boardms3/public_html/left_td.php on line 25
+[13-Sep-2011 00:56:16] PHP Warning:  main(left_blocks/books_list.php): failed to open stream: No such file or directory in /home/boardms3/public_html/left_td.php on line 25
+[13-Sep-2011 00:56:16] PHP Warning:  main(): Failed opening 'left_blocks/books_list.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/boardms3/public_html/left_td.php on line 25
+[13-Sep-2011 00:56:16] PHP Warning:  main(books.php): failed to open stream: No such file or directory in /home/boardms3/public_html/content_td.php on line 74
+[13-Sep-2011 00:56:16] PHP Warning:  main(books.php): failed to open stream: No such file or directory in /home/boardms3/public_html/content_td.php on line 74
+[13-Sep-2011 00:56:16] PHP Warning:  main(books.php): failed to open stream: No such file or directory in /home/boardms3/public_html/content_td.php on line 74
+[13-Sep-2011 00:56:16] PHP Warning:  main(): Failed opening 'books.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/boardms3/public_html/content_td.php on line 74
+[13-Sep-2011 13:39:08] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2) in /home/boardms3/public_html/db.php on line 2
+[13-Sep-2011 13:39:22] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2) in /home/boardms3/public_html/db.php on line 2
+[13-Sep-2011 15:51:17] PHP Warning:  main(user_blocks/info.php): failed to open stream: No such file or directory in /home/boardms3/public_html/content_td.php on line 98
+[13-Sep-2011 15:51:17] PHP Warning:  main(user_blocks/info.php): failed to open stream: No such file or directory in /home/boardms3/public_html/content_td.php on line 98
+[13-Sep-2011 15:51:17] PHP Warning:  main(user_blocks/info.php): failed to open stream: No such file or directory in /home/boardms3/public_html/content_td.php on line 98
+[13-Sep-2011 15:51:17] PHP Warning:  main(): Failed opening 'user_blocks/info.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/boardms3/public_html/content_td.php on line 98
+[13-Sep-2011 15:51:48] PHP Warning:  main(user_blocks/user_video.php): failed to open stream: No such file or directory in /home/boardms3/public_html/content_td.php on line 110
+[13-Sep-2011 15:51:48] PHP Warning:  main(user_blocks/user_video.php): failed to open stream: No such file or directory in /home/boardms3/public_html/content_td.php on line 110
+[13-Sep-2011 15:51:48] PHP Warning:  main(user_blocks/user_video.php): failed to open stream: No such file or directory in /home/boardms3/public_html/content_td.php on line 110
+[13-Sep-2011 15:51:48] PHP Warning:  main(): Failed opening 'user_blocks/user_video.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/boardms3/public_html/content_td.php on line 110
+[13-Sep-2011 15:51:51] PHP Warning:  main(user_blocks/user_articles.php): failed to open stream: No such file or directory in /home/boardms3/public_html/content_td.php on line 113
+[13-Sep-2011 15:51:51] PHP Warning:  main(user_blocks/user_articles.php): failed to open stream: No such file or directory in /home/boardms3/public_html/content_td.php on line 113
+[13-Sep-2011 15:51:51] PHP Warning:  main(user_blocks/user_articles.php): failed to open stream: No such file or directory in /home/boardms3/public_html/content_td.php on line 113
+[13-Sep-2011 15:51:51] PHP Warning:  main(): Failed opening 'user_blocks/user_articles.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/boardms3/public_html/content_td.php on line 113
+[13-Sep-2011 16:17:52] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2) in /home/boardms3/public_html/db.php on line 2
+[13-Sep-2011 16:19:41] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2) in /home/boardms3/public_html/db.php on line 2
+[13-Sep-2011 16:19:48] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2) in /home/boardms3/public_html/db.php on line 2
+[13-Sep-2011 17:13:28] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2) in /home/boardms3/public_html/db.php on line 2
+[13-Sep-2011 17:24:02] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2) in /home/boardms3/public_html/db.php on line 2
+[13-Sep-2011 17:27:56] PHP Warning:  include(left_blocks/news.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/boardms3/public_html/left_td.php on line 31
+[13-Sep-2011 17:27:56] PHP Warning:  include(left_blocks/news.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/boardms3/public_html/left_td.php on line 31
+[13-Sep-2011 17:27:56] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'left_blocks/news.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/boardms3/public_html/left_td.php on line 31
+[13-Sep-2011 17:27:56] PHP Warning:  include(news.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/boardms3/public_html/content_td.php on line 86
+[13-Sep-2011 17:27:56] PHP Warning:  include(news.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/boardms3/public_html/content_td.php on line 86
+[13-Sep-2011 17:27:56] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'news.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/boardms3/public_html/content_td.php on line 86
+[13-Sep-2011 17:32:56] PHP Warning:  include(settings.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/boardms3/public_html/content_td.php on line 95
+[13-Sep-2011 17:32:56] PHP Warning:  include(settings.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/boardms3/public_html/content_td.php on line 95
+[13-Sep-2011 17:32:56] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'settings.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/boardms3/public_html/content_td.php on line 95

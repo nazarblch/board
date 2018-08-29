@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+.reg_form_data{
+	width:300px;
+	margin-left:20px;
+	margin-top:10px;
+	color:grey;
+	
+}
+
+#uploadButton font{
+	
+	padding:2px;
+	margin-left:20px;
+	background-color:#CCC;
+	
+	
+}
+
+#sub_reg{
+	margin-left:20px;
+}
+
+
